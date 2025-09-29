@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can email me at angel-gomez@hotmail.com. I'll respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/angel-gmz/angel-gmz/refs/heads/main/programing.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/angel-gmz/angel-gmz/refs/heads/main/programing.gif" height="180em" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
