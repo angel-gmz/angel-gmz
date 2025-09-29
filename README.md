@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/angel-gmz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angel-gmz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angel-gmz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> /
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angel-gmz&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
