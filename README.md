@@ -47,6 +47,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/angel-gmz"><img src="https://img.shields.io/badge/-Angel%20Gomez-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:angel-gomez@hotmail.com"><img src="https://img.shields.io/badge/-angel-gomez%40hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:angel-gomez@hotmail.com"><img src="https://img.shields.io/badge/-angel--gomez%40hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
