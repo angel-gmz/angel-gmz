@@ -1,5 +1,5 @@
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![angel-dev banner](https://raw.githubusercontent.com/angel-gmz/angel-gmz/refs/heads/main/bg-gh.png)
 
 ## 👋 &nbsp;Hey there! I'm Angel Gómez
 
