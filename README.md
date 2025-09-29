@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can email me at angel-gomez@hotmail.com. I'll respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/angel-gmz/angel-gmz/refs/heads/main/programing.gif" height="180em" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/angel-gmz/angel-gmz/refs/heads/main/programing.gif" height="250em" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,9 +22,9 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;\
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
